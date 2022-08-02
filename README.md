@@ -1,6 +1,6 @@
 # Weather Detector App
 
-An App that fetches you your current Location's Weather
+An App that fetches you your current Location's Weather.
 It can also get you the desired city's Weather which can be entered in the Search Bar
 
 ## Getting Started
