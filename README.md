@@ -1,4 +1,4 @@
-# flutter_application_2
+# Weather Detector App
 
 A new Flutter project.
 
